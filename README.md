@@ -2,9 +2,35 @@
 
 TeknoSindy adalah website artikel teknologi berbasis Laravel yang dibuat untuk memberikan informasi dan pengetahuan seputar perkembangan teknologi digital. Website ini menyajikan berbagai artikel tentang kecerdasan buatan, komputer, pemrograman, cloud computing, dan keamanan siber.
 
+## 👩‍🎓 Identitas Mahasiswa
+
+- **Nama:** Sindy Aulia
+- **NIM:** C2483207018
+- **Kelas:** PTI5
+- **Program Studi:** Pendidikan Teknologi Informasi
+- **Perguruan Tinggi:** Universitas Muhammadiyah Tasikmalaya
+
+
 ## 📌 Deskripsi Proyek
 
 Proyek ini dibuat sebagai media informasi dan pembelajaran teknologi dengan tampilan yang sederhana, modern, dan responsif. Pengguna dapat membaca daftar artikel, melihat detail artikel, menjelajahi kategori, serta mengetahui informasi mengenai website.
+
+## 📸 Screenshot Website
+
+Tambahkan screenshot asli website pada folder `screenshots/`.
+
+### 1. Beranda
+
+![Halaman Beranda](screenshots/beranda.png)
+
+### 2. artikel
+
+![Halaman Profil](screenshots/artikel.png)
+
+### 3. kategori
+
+![Halaman Proyek](screenshots/kategori.png)
+
 
 ## ✨ Fitur Utama
 
