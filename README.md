@@ -54,7 +54,7 @@ Tambahkan screenshot asli website pada folder `screenshots/`.
 ## 📂 Struktur Proyek
 
 ```text
-Artikel-TeknologiRiza/
+Artikel-TeknologiSindy/
 ├── app/
 │   └── Http/
 │       └── Controllers/
@@ -100,7 +100,7 @@ Website ini memiliki beberapa artikel contoh, yaitu:
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/USERNAME/Artikel-TeknologiRiza.git
+git clone  https://github.com/sindy02/Artikel-TeknologiSindy.git
 ```
 
 Ganti `USERNAME` dengan nama akun GitHub pemilik repository.
