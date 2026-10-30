@@ -1,6 +1,6 @@
-# 💻 TeknoRiza — Website Artikel Teknologi
+# 💻 TeknoSindy — Website Artikel Teknologi
 
-TeknoRiza adalah website artikel teknologi berbasis Laravel yang dibuat untuk memberikan informasi dan pengetahuan seputar perkembangan teknologi digital. Website ini menyajikan berbagai artikel tentang kecerdasan buatan, komputer, pemrograman, cloud computing, dan keamanan siber.
+TeknoSindy adalah website artikel teknologi berbasis Laravel yang dibuat untuk memberikan informasi dan pengetahuan seputar perkembangan teknologi digital. Website ini menyajikan berbagai artikel tentang kecerdasan buatan, komputer, pemrograman, cloud computing, dan keamanan siber.
 
 ## 📌 Deskripsi Proyek
 
